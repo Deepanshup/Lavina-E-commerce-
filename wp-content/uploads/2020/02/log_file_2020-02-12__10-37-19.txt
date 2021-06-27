@@ -1,0 +1,83 @@
+
+---Downloaded files---
+The import files for: Shopline Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/lavina-pvt-ltd/wordpress
+Data file = C:\xampp\htdocs\lavina-pvt-ltd\wordpress/wp-content/uploads/2020/02/demo-content-import-file_2020-02-12__10-37-19.xml
+Widget file = C:\xampp\htdocs\lavina-pvt-ltd\wordpress/wp-content/uploads/2020/02/demo-widgets-import-file_2020-02-12__10-37-19.json
+Customizer file = C:\xampp\htdocs\lavina-pvt-ltd\wordpress/wp-content/uploads/2020/02/demo-customizer-import-file_2020-02-12__10-37-19.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - RECENT BLOG POST - Imported
+Custom HTML - TEXT WIDGET - Imported
+Video - Latest Video - Imported
+
+First Footer Widget Area : 
+
+Navigation Menu - Our Story - Imported
+
+Second Footer Widget Area : 
+
+Tag Cloud - No Title - Imported
+
+Third Footer Widget Area : 
+
+Recent Posts - Recent Post - Imported
+
+Fourth Footer Widget Area : 
+
+Text - About - Imported
+
+Service : 
+
+Shopline : Service Widget - Free Delivery  - Imported
+Shopline : Service Widget - Money Guarantee - Imported
+Shopline : Service Widget - Payment Method - Imported
+Shopline : Service Widget - Support 24/7 - Imported
+Shopline : Service Widget - 100% Safe  - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

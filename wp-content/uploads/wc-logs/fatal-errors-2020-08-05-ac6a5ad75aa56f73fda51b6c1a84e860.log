@@ -1,0 +1,8 @@
+2020-08-05T10:47:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Projects\lavina\wp-includes\wp-db.php on line 2030
+
+2020-08-05T10:49:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Projects\lavina\wp-includes\wp-db.php on line 2030
+
+2020-08-05T10:52:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Projects\lavina\wp-admin\includes\plugin.php on line 330
+
+2020-08-05T10:53:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Projects\lavina\wp-includes\wp-db.php on line 2030
+
